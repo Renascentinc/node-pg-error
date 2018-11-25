@@ -1,7 +1,5 @@
 PgError.js
 ==========
-[![NPM version][npm-badge]](http://badge.fury.io/js/pg-error)
-[npm-badge]: https://badge.fury.io/js/pg-error.png
 
 **PgError.js** is an error class for Node.js that parses [PostgreSQL's
 ErrorResponse format][pg-formats] and names its fields with **human readable
